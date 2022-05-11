@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="fr-FR"
+	>
+	<title type="text">Chalets et caviar</title>
+	<subtitle type="text">Le savoir-faire pour Acheter, Vendre ou Louer un chalet de luxe à Courchevel</subtitle>
+
+	<updated>2022-01-15T12:05:36Z</updated>
+
+	<link rel="alternate" type="text/html" href="https://eddess.fr/chaletsetcaviar" />
+	<id>https://eddess.fr/chaletsetcaviar/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="https://eddess.fr/chaletsetcaviar/feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="5.9.3">WordPress</generator>
+<icon>https://eddess.fr/chaletsetcaviar/wp-content/uploads/2021/06/cropped-logo-32x32.png</icon>
+</feed>

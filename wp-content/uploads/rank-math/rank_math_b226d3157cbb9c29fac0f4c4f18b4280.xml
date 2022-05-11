@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//eddess.fr/chaletsetcaviar/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://eddess.fr/chaletsetcaviar/page-sitemap.xml</loc>
+		<lastmod>2022-01-15T13:05:36+01:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://eddess.fr/chaletsetcaviar/chalet-sitemap.xml</loc>
+		<lastmod>2021-06-27T12:42:07+02:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://eddess.fr/chaletsetcaviar/category-sitemap.xml</loc>
+		<lastmod>2021-06-27T12:42:07+02:00</lastmod>
+	</sitemap>
+</sitemapindex>

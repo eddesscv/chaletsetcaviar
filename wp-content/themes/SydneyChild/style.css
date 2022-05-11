@@ -1,0 +1,83 @@
+/*
+Theme Name:   SydneyChild
+Description:  Thème enfant Sydney
+Author:       chaletsetcaviar
+Author URL:   https://www.eddess.fr
+Template:     sydney
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  SydneyChild
+*/
+
+/* Écrivez ici votre propre feuille de style personnelle */
+
+
+/*Location ou vente*/
+.searchandfilter select.sf-input-select {
+    width: 340px;
+    max-width: 100%;
+}
+
+/*Chambres et prix*/
+.searchandfilter .sf-range-max, .searchandfilter .sf-range-min {
+    width: 152px;
+	max-width: 100%;
+}
+
+/*Label champs*/
+.searchandfilter h4 {
+    color: #FFFFFF
+}
+
+
+/*Bouton submit*/
+button, .llms-button-action, .llms-student-dashboard .llms-button-secondary, input[type="button"], input[type="reset"], input[type="submit"] {
+ 
+    width: 100%;
+}
+
+/*Padding*/
+.searchandfilter ul {
+    padding-left: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  /*Location ou vente*/
+	.searchandfilter select.sf-input-select {
+			width: 340px;
+			max-width: 100%;
+	}
+
+	/*Chambres et prix*/
+	.searchandfilter .sf-range-max, .searchandfilter .sf-range-min {
+    width: 140px;
+    max-width: 100%;
+}
+	/*Template Chalet*/
+	div.elementor-1827 .elementor-element.elementor-element-d0651a5 .ae-acf-wrapper  {
+    text-align: right;
+}
+}
+
+@media only screen and (min-width: 600px) (max-width: 768px){
+	 /*Location ou vente*/
+	.searchandfilter select.sf-input-select {
+			width: 640px;
+			max-width: 100%;
+	}
+
+	/*Chambres et prix*/
+	.searchandfilter .sf-range-max, .searchandfilter .sf-range-min {
+			width: 293px;
+		max-width: 300px;
+	}
+}
+
+.site-footer {
+    font-size: small;}
+
+.footer-widgets .widget-title, .tnp-widget-minimal input.tnp-submit {
+    color: #F1DBC3;
+	text-align: left;
+}
